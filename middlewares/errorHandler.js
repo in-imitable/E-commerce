@@ -17,4 +17,4 @@
     });
  };
 
- module.exports = { errorHandler, notFound};
+ module.exports = { errorHandler, notFound };
